@@ -1,0 +1,760 @@
+-- Here Your Toggle For Kavo Ui
+
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/TwiRwal/TwiWare/main/uilib.lua"))()
+local Window = Library.CreateLib("Slicer Fe V6", "Ocean")
+local Tab = Window:NewTab("Fe Scripts")
+local Section = Tab:NewSection("All fe scripts are not from me")
+
+Section:NewButton("Fe Punch", "Works all R15/R6 games", function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/0Ben1/fe/main/obf_rf6iQURzu1fqrytcnLBAvW34C9N55kS9g9G3CKz086rC47M6632sEd4ZZYB0AYgV.lua.txt'),true))()
+end)
+
+Section:NewButton("Fe Neko", "Works only R6 games", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gazer-Ha/Neko-v1/main/Extremely%20Broken"))()
+end)
+
+Section:NewButton("Fe Ender ", "Works only R6 games", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/9BtJhHrp", true))()
+end)
+
+Section:NewButton("Fe Glios", "Works only R6 games", function()
+loadstring(game:HttpGet(('https://glot.io/snippets/gua2ntmbdm/raw/main.lua'),true))()
+end)
+
+Section:NewButton("Fe Gale fighter", "Works only R6 games", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/XPGSMEw9"))()
+end)
+
+Section:NewButton("Fe Griddy", "Works only R6 games", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MelonsStuff/hub/main/Griddy.txt"))()
+end)
+
+Section:NewButton("Fe KJ", "Works only R6 games", function()
+loadstring(game:HttpGet("https://pastefy.app/sdAujywd/raw"))()
+end)
+
+Section:NewButton("Fe Caducus", "Works only R6 games", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/LDL9AyQ4"))();
+end)
+
+Section:NewButton("Fe Sonic", "Works only R6 games", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/uacVtsWe"))()
+end)
+
+Section:NewButton("Fe Sad boy", "Works only R6 games", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/hgPJbwF0"))()
+end)
+
+Section:NewButton("Fe G-Man", "Works only R6 games", function()
+_G.clientsidedeffect = true --set it to false if you don't want the effect
+loadstring(game:HttpGet("https://raw.githubusercontent.com/randomstring0/Qwerty/refs/heads/main/qwerty18.lua"))()
+end)
+
+Section:NewButton("Fe Car", "You can use car hat or without hat", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexCr4sh/FeScripts/main/FeCarScript.lua", true))()
+end)
+
+Section:NewButton("Fe Fighter", "Works only R6 games", function()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-FE-Fighter-inspired-by-Gale-21557"))()
+end)
+
+Section:NewButton("Fe Hug", "Works all game", function()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Hug-Gui-R6-17818"))()
+end)
+
+Section:NewButton("Fe Honored", "Works only R6 games", function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Cortzalno666/NectoVerse-Industries-Data/master/Scripts%20Folder/Honored.lua'),true))()
+end)
+
+Section:NewButton("Fe Invisible", "Works all games", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/3Rnd9rHf'))()
+end)
+
+Section:NewButton("Fe NPC control ", "Works only R6 games", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/randomstring0/Qwerty/refs/heads/main/qwerty13.lua"))()
+end)
+
+Section:NewButton("Fe Telekinesis V5", "Works only if parts are unanchored + you can also grab NPC", function()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/randomstring0/Qwerty/refs/heads/main/qwerty11.lua"))()
+end)
+
+Section:NewButton("Fe Tool Draw", "You need more Tools to draw something", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Affexter/Programs/refs/heads/main/scripts/tooldrawFE.lua"))()
+end)
+
+Section:NewButton("Fe Zombie", "Works only R6 and R15 games ig", function()
+loadstring(game:HttpGet(('https://pastefy.app/w7KnPY70/raw'),true))()
+end)
+
+Section:NewButton("Fe Blackhole", "Works only if parts are unanchored", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bac0nHck/Scripts/main/BringFlingPlayers"))("More Scripts: t.me/arceusxscripts")
+end)
+
+Section:NewButton("Fe Radius Blackhole", "Same as like fe Blackhole script", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/RkWYLL5t"))();
+end)
+
+Section:NewButton("Fe Super Ring V4", "Kinda like Blackhole", function()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Natural-Disaster-Survival-Super-ring-V4-24296"))()
+end)
+
+Section:NewButton("Fe Audio spam", "It works only if games support", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/kmXCTkBt"))();
+end)
+
+Section:NewButton("Fe Goner Divine Edge", "Works only R6 games", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/sFf9MeBE"))();
+end)
+
+Section:NewButton("Fe Crystal Dance", "Works only R6 games", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/vT1URaRJ"))() 
+end)
+
+Section:NewButton("Fe Jerk", "Works all R15 and R6 games", function()
+--Made by muscle_legends2021 (Gio)
+--YouTube: GioBolqvi
+
+loadstring(game:HttpGet("https://pastefy.app/YZoglOyJ/raw"))()
+end)
+
+
+local Tab = Window:NewTab("Genesis FE")
+local Section = Tab:NewSection("Credits to all the owner")
+
+Section:NewButton("Fe ban hammer", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GenesisFE/Genesis/main/Obfuscations/Ban%20Hammer"))()
+end)
+
+Section:NewButton ("FE Neptunian V", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GenesisFE/Genesis/main/Obfuscations/Neptunian%20V"))()
+end)
+
+Section:NewButton("Fe Linked Sword", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GenesisFE/Genesis/main/Obfuscations/Linked%20Sword"))()
+end)
+
+Section:NewButton("Fe Star Glicher", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GenesisFE/Genesis/main/Obfuscations/Star%20Glitcher"))()
+end)
+
+Section:NewButton("FE AK47 SCRIPT WORKS ON DA HOOD HAT SCRIPT", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GenesisFE/Genesis/main/Obfuscations/AK-47"))()
+end)
+
+Section:NewButton("Fe Krystal Dance", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GenesisFE/Genesis/main/Obfuscations/Krystal%20Dance"))()
+end)
+
+Section:NewButton("FE Good Cop Bad Cop Hat Script UNIVERSAL DA HOOD SUPPORT", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GenesisFE/Genesis/main/Obfuscations/Good%20Cop%20Bad%20Cop"))()
+end)
+
+Section:NewButton("Fe Gale Fighter", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GenesisFE/Genesis/main/Obfuscations/Gale%20Fighter"))()
+end)
+
+Section:NewButton("FE Dearsister Pistol Hat Script UNIVERSAL DA HOOD SUPPORT", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GenesisFE/Genesis/main/Obfuscations/Dearsister"))()
+end)
+
+local Tab = Window:NewTab("Universal")
+local Section = Tab:NewSection("Gears (Tools)")
+
+Section:NewButton("Rocket Ship And Ufo", "gives you 2 gears that flys", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ahma174/Lightblox-jar/refs/heads/main/UFO%20RocketShip"))()
+end)
+
+Section:NewButton("Classic Plane", "Gives you a Gear that like a plane", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ahma174/Lightblox-jar/refs/heads/main/Classic%20plane"))()
+end)
+
+Section:NewButton("Hyperbikes", "gives you 5 bikes", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ahma174/Lightblox-jar/refs/heads/main/Hyperbikes"))()
+end)
+
+Section:NewButton("The 6th Annual Bloxy Award And bloxy cola", "gives you 2 gears", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ahma174/Lightblox-jar/refs/heads/main/The%206th%20Annual%20Bloxy%20Award%20And%20bloxy%20cola"))()
+end)
+
+Section:NewButton("Lightblox Jar", "gives you a gears like a bottle", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ahma174/Lightblox-jar/refs/heads/main/Tool%20ui"))()
+end)
+
+Section:NewButton("Ak47", "", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/9qqaT4ug"))()
+end)
+
+Section:NewButton("Sword", "", function()
+local plr = game.Players.LocalPlayer
+local tool = Instance.new("Tool", plr.Backpack)
+tool.GripPos = Vector3.new(0, 0, -1.5)
+tool.GripForward = Vector3.new(0, -1, 0)  -- Adjusted to face upward
+tool.GripRight = Vector3.new(1, 0, 0)
+tool.GripUp = Vector3.new(0, 0, 1)
+tool.Name = "Classic Sword"
+tool.TextureId = "rbxasset://Textures/Sword128.png"
+tool.RequiresHandle = true
+tool.CanBeDropped = true
+
+local k = Instance.new("Part", tool)
+k.Name = "Handle"
+k.Size = Vector3.new(1, 0.8, 4)
+k.Anchored = false
+k.CanCollide = false
+
+
+local mesh = Instance.new("SpecialMesh", k)
+mesh.MeshId = "rbxasset://fonts/sword.mesh" -- Replace with your mesh ID
+mesh.TextureId = "rbxasset://textures/SwordTexture.png" 
+mesh.Scale = Vector3.new(1, 1, 1) 
+mesh.Offset = Vector3.new(0, 0, 0)
+mesh.VertexColor = Vector3.new(1, 1, 1)
+
+local Unsheath = Instance.new("Sound", k)
+Unsheath.SoundId = "http://www.roblox.com/asset/?id=12222225"
+Unsheath.Volume = "5"
+Unsheath.TimePosition = 0
+
+local SwordSlash = Instance.new("Sound", k)
+SwordSlash.SoundId = "http://www.roblox.com/asset/?id=12222216"
+SwordSlash.Volume = "5"
+SwordSlash.TimePosition = 0
+
+local SwordLunge = Instance.new("Sound", k)
+SwordLunge.SoundId = "http://www.roblox.com/asset/?id=12222208"
+SwordLunge.Volume = "5"
+SwordLunge.TimePosition = 0
+
+
+local l = Instance.new("Animation", tool)
+l.AnimationId = "rbxassetid://94161088"
+local m = plr.Character.Humanoid:LoadAnimation(l)
+
+local db = true
+local da = false
+
+tool.Equipped:Connect(function()
+Unsheath:Play()
+wait(1)
+    tool.Activated:Connect(function()
+        if db == true then
+            db = false
+			SwordSlash:Play()
+            m:Play()
+            wait()
+            da = true
+            db = true
+            wait(2)
+            da = false
+			m:Stop()
+        end
+    end)
+end)
+
+k.Touched:Connect(function(n)
+    if da == true then
+        local o = n.Parent:FindFirstChild("Humanoid")
+        if o ~= nil then
+            local p = game.Players:FindFirstChild(n.Parent.Name)
+            for j = 1, 10 do
+                if p.Name ~= "FunnyVideo15" then
+                    if game:GetService("ReplicatedStorage"):FindFirstChild("juisdfj0i32i0eidsuf0iok") then
+                        hiddenfling = true
+                    else
+                        hiddenfling = true
+                        local detection = Instance.new("Decal")
+                        detection.Name = "juisdfj0i32i0eidsuf0iok"
+                        detection.Parent = game:GetService("ReplicatedStorage")
+                        
+                        local function fling()
+                            local hrp, c, vel, movel = nil, nil, nil, 0.1
+                            while true do
+                                game:GetService("RunService").Heartbeat:Wait()
+                                if hiddenfling then
+                                    local lp = game.Players.LocalPlayer
+                                    while hiddenfling and not (c and c.Parent and hrp and hrp.Parent) do
+                                        game:GetService("RunService").Heartbeat:Wait()
+                                        c = lp.Character
+                                        hrp = c:FindFirstChild("HumanoidRootPart") or c:FindFirstChild("Torso") or c:FindFirstChild("UpperTorso")
+                                    end
+                                    if hiddenfling then
+                                        vel = hrp.Velocity
+                                        hrp.Velocity = vel * 10000 + Vector3.new(0, 10000, 0)
+                                        game:GetService("RunService").RenderStepped:Wait()
+                                        if c and c.Parent and hrp and hrp.Parent then
+                                            hrp.Velocity = vel
+                                        end
+                                        game:GetService("RunService").Stepped:Wait()
+                                        if c and c.Parent and hrp and hrp.Parent then
+                                            hrp.Velocity = vel + Vector3.new(0, movel, 0)
+                                            movel = movel * -1
+                                        end
+                                    end
+                                end
+                            end
+                        end
+                        
+                        fling()
+                    end
+                end 
+            end
+        end 
+    end
+	
+	wait(2)
+	
+	hiddenfling = true
+end)
+end)
+
+Section:NewButton("VenomShank", "", function()
+local plr = game.Players.LocalPlayer
+local tool = Instance.new("Tool", plr.Backpack)
+tool.GripPos = Vector3.new(0, 0, -2)
+tool.GripForward = Vector3.new(0, -1, 0)  -- Adjusted to face upward
+tool.GripRight = Vector3.new(1, 0, 0)
+tool.GripUp = Vector3.new(0, 0, 1)
+tool.Name = "Venomshank"
+tool.TextureId = "rbxassetid://82741319"
+tool.RequiresHandle = true
+tool.CanBeDropped = true
+
+local k = Instance.new("Part", tool)
+k.Name = "Handle"
+k.Size = Vector3.new(1, 0.8, 4)
+k.Anchored = false
+k.CanCollide = false
+
+
+local mesh = Instance.new("SpecialMesh", k)
+mesh.MeshId = "rbxasset://fonts/sword.mesh" -- Replace with your mesh ID
+mesh.TextureId = "rbxasset://textures/SwordTexture.png" 
+mesh.Scale = Vector3.new(1.5, 1.5, 1.5) 
+mesh.Offset = Vector3.new(0, 0, 0)
+mesh.VertexColor = Vector3.new(0.30000001192092896, 1, 0.30000001192092896)
+
+local Unsheath = Instance.new("Sound", k)
+Unsheath.SoundId = "http://www.roblox.com/asset/?id=12222225"
+Unsheath.Volume = "1"
+Unsheath.TimePosition = 0
+
+local SwordSlash = Instance.new("Sound", k)
+SwordSlash.SoundId = "http://www.roblox.com/asset/?id=12222208"
+SwordSlash.Volume = "1"
+SwordSlash.TimePosition = 0
+
+
+local l = Instance.new("Animation", tool)
+l.AnimationId = "rbxassetid://2954124238"
+local m = plr.Character.Humanoid:LoadAnimation(l)
+
+local db = true
+local da = false
+
+tool.Equipped:Connect(function()
+Unsheath:Play()
+wait(1)
+    tool.Activated:Connect(function()
+        if db == true then
+            db = false
+            SwordSlash:Play()
+            m:Play()
+            wait()
+            da = true
+            db = true
+            wait(2)
+            da = false
+            m:Stop()
+        end
+    end)
+end)
+
+k.Touched:Connect(function(n)
+    if da == true then
+        local o = n.Parent:FindFirstChild("Humanoid")
+        if o ~= nil then
+            local p = game.Players:FindFirstChild(n.Parent.Name)
+            for j = 1, 10 do
+                if p.Name ~= "FunnyVideo15" then
+                    if game:GetService("ReplicatedStorage"):FindFirstChild("juisdfj0i32i0eidsuf0iok") then
+                        hiddenfling = true
+                    else
+                        hiddenfling = true
+                        local detection = Instance.new("Decal")
+                        detection.Name = "juisdfj0i32i0eidsuf0iok"
+                        detection.Parent = game:GetService("ReplicatedStorage")
+                        
+                        local function fling()
+                            local hrp, c, vel, movel = nil, nil, nil, 0.1
+                            while true do
+                                game:GetService("RunService").Heartbeat:Wait()
+                                if hiddenfling then
+                                    local lp = game.Players.LocalPlayer
+                                    while hiddenfling and not (c and c.Parent and hrp and hrp.Parent) do
+                                        game:GetService("RunService").Heartbeat:Wait()
+                                        c = lp.Character
+                                        hrp = c:FindFirstChild("HumanoidRootPart") or c:FindFirstChild("Torso") or c:FindFirstChild("UpperTorso")
+                                    end
+                                    if hiddenfling then
+                                        vel = hrp.Velocity
+                                        hrp.Velocity = vel * 10000 + Vector3.new(0, 10000, 0)
+                                        game:GetService("RunService").RenderStepped:Wait()
+                                        if c and c.Parent and hrp and hrp.Parent then
+                                            hrp.Velocity = vel
+                                        end
+                                        game:GetService("RunService").Stepped:Wait()
+                                        if c and c.Parent and hrp and hrp.Parent then
+                                            hrp.Velocity = vel + Vector3.new(0, movel, 0)
+                                            movel = movel * -1
+                                        end
+                                    end
+                                end
+                            end
+                        end
+                        
+                        fling()
+                    end
+                end 
+            end
+        end 
+    end
+    
+    wait(2)
+    
+    hiddenfling = true
+end)
+end)
+
+Section:NewButton("Ban Hammer", "", function()
+local BanSound = Instance.new("Sound") 
+local Id = "157878578"
+BanSound.Parent = game.Workspace
+BanSound.SoundId = "rbxassetid://"..Id
+BanSound.Looped = false
+BanSound.Volume = 1
+local mouse = game.Players.LocalPlayer:GetMouse()
+local On = Instance.new("StringValue")
+Tool0 = Instance.new("Tool")
+Part1 = Instance.new("Part")
+SpecialMesh2 = Instance.new("SpecialMesh")
+Tool0.Name = "BanHammer"
+Tool0.Parent = game.Players.LocalPlayer.Backpack
+Tool0.TextureId = "http://www.roblox.com/asset/?id=10684453"
+Tool0.Grip = CFrame.new(0.100000001, -0.400000006, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+Tool0.GripPos = Vector3.new(0.10000000149011612, -3, 0)
+Tool0.ToolTip = "Ban Hammer"
+Part1.Name = "Handle"
+Part1.Parent = Tool0
+Part1.CFrame = CFrame.new(10.9154053, 1, -20.9892578, 0, 0, 1, 0, 1, 0, -1, 0, 0)
+Part1.Orientation = Vector3.new(90, 0, 0)
+Part1.Position = Vector3.new(10.9154052734375, 1, -18.9892578125)
+Part1.Rotation = Vector3.new(-90, 0, 0)
+Part1.Color = Color3.new(0.960784, 0.803922, 0.188235)
+Part1.Size = Vector3.new(0.5, 0.5, 0.5)
+Part1.BottomSurface = Enum.SurfaceType.Smooth
+Part1.BrickColor = BrickColor.new("Bright yellow")
+Part1.TopSurface = Enum.SurfaceType.Smooth
+Part1.brickColor = BrickColor.new("Bright yellow")
+Part1.FormFactor = Enum.FormFactor.Custom
+Part1.formFactor = Enum.FormFactor.Custom
+SpecialMesh2.Parent = Part1
+SpecialMesh2.MeshId = "http://www.roblox.com/asset/?id=10604848"
+SpecialMesh2.Scale = Vector3.new(1.2, 1.2, 1.2)
+SpecialMesh2.TextureId = "http://www.roblox.com/asset?id=10605252"
+SpecialMesh2.MeshType = Enum.MeshType.FileMesh
+On.Parent = Tool0
+On.Value = "Off"
+AnimationId = "96065457"
+local Anim = Instance.new("Animation")
+Anim.AnimationId = "rbxassetid://"..AnimationId
+local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+
+AnimationId2 = "33169573"
+local Anim2 = Instance.new("Animation")
+Anim2.AnimationId = "rbxassetid://"..AnimationId2
+local k2 = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim2)
+
+mouse.Button1Up:Connect(function()
+    if On.Value == "Off" then
+    else
+        if mouse.Target.Locked == true then
+BanSound:Stop()
+BanSound.Playing = true
+            mouse.Target:Destroy()
+        else
+BanSound:Stop()
+BanSound.Playing = true
+            mouse.Target:Destroy()
+        end
+    end
+end)
+
+
+
+Tool0.Activated:Connect(function()
+k2:Play()
+for _,v in pairs(game.Players:GetPlayers()) do
+        if v~=game.Players.LocalPlayer then
+            local ohString1 = "Destroy"
+            local ohInstance2 = v
+            
+            game:GetService("ReplicatedStorage").Events.Props.PropRE:FireServer(ohString1, ohInstance2)
+        end
+    end
+end)
+
+Tool0.Equipped:Connect(function()
+k:Play()
+Off.Value = "Off"
+end)
+
+Tool0.Unequipped:Connect(function()
+k:Stop()
+Off.Value = "Off"
+end)
+end)
+
+local Section = Tab:NewSection("Gear giver guis")
+
+Section:NewButton("Gear Giver Gui 1.8", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ahma174/Gear-giver-1.8/refs/heads/main/Ui"))()
+end)
+
+Section:NewButton("Gear Giver Gui 1.5", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ahma174/Gear-Giver-Gui-1.5/refs/heads/main/Gear"))()
+end)
+
+Section:NewButton("Gear Giver Gui", "", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/eyjC37PG"))()
+end)
+
+local Section = Tab:NewSection("misc Scripts")
+
+Section:NewButton("Delta keyboard", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Ata/main/deltakeyboardcrack.txt"))()
+end)
+
+Section:NewButton("Arceus x V3 Ui", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/Arceus%20X%20V3"))()
+end)
+
+Section:NewButton("music player", "", function()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Buage/BlurPlayer/refs/heads/main/main.lua"))()
+end)
+
+Section:NewButton("Ez Hub", "", function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/debug42O/Ez-Industries-Launcher-Data/master/Launcher.lua'),true))()
+end)
+
+Section:NewButton("Rochips panel", "", function()
+if "you wanna use rochips universal" then
+	local z_x,z_z="gzrux646yj/raw/main.ts","https://glot.io/snippets/"
+	local im,lonely,z_c=task.wait,game,loadstring
+	z_c(lonely:HttpGet(z_z..""..z_x))()
+	return ("This will load in about 0.1 - 1 seconds" or "according to your device and executor")
+end
+end)
+
+Section:NewButton("Sin Dragon (not fe)", "", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/JGrR1ZN3"))()
+end)
+
+local Section = Tab:NewSection("Admin")
+
+Section:NewButton("Infinite yield", "", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+Section:NewButton("Nameless admin (mobile version)", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ltseverydayyou/Nameless-Admin/main/Source"))();
+end)
+
+Section:NewButton("prizzlife admin (only prison life)", "", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/devguy100/PrizzLife/main/Source/release_v0.8.1.lua'))()
+end)
+
+local Tab = Window:NewTab("Game Scripts")
+local Section = Tab:NewSection("Credits to all the owner")
+
+Section:NewButton("Speed hub x (blox fruits)", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+end)
+
+Section:NewButton("Speed hub x (pets go)", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+end)
+
+Section:NewButton("Speed hub x (fisch)", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+end)
+
+Section:NewButton("speed hub x (muscle legends)", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+end)
+
+Section:NewButton("Speed hub x (tsb)", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+end)
+
+Section:NewButton("Zap hub (ps99) (need key)", "", function()
+loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()
+
+-- Discord Server:
+-- https://discord.gg/zaphub
+end)
+
+Section:NewButton("Sander x (Brookhaven)", "", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/sXPiterXs1111/SanderXV2.65/main/sanderXNewV2.65.lua'))()
+end)
+
+Section:NewButton("promixa hub (ninja legends)", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua"))()
+end)
+
+Section:NewButton("Ninja legends 2 Script", "", function()
+loadstring(game:HttpGet"https://pastebin.com/raw/FCa86zXe")()
+end)
+
+Section:NewButton("god hub (rivals)", "", function()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/c56622b9897b159614c3e7889571afd5.lua"))()
+end)
+
+Section:NewButton("blackking (doors)", "", function()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Buage/BlurPlayer/refs/heads/main/main.lua"))()
+end)
+
+Section:NewButton("Unknown Hub x (evade)", "", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Unknownproooolucky/Unknown-Hub-X-Universal-Games/main/Games/Evade'))()
+end)
+
+Section:NewButton("Shrimp Game Script Op", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IAmJamal10/Scripts/refs/heads/main/Shrimp"))()
+end)
+
+Section:NewButton("Eat The world Script", "", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/EatWorld'))()
+end)
+
+Section:NewButton("Combat Warrior Script", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/speedwavevip/scriptspeed/refs/heads/main/CombatWarriors_English"))()
+end)
+
+Section:NewButton("X hub (mm2)", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mzkv/mm2/refs/heads/main/xHUB", true))()
+end)
+
+Section:NewButton("quotas hub (Arsenal)", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Insertl/QuotasHub/main/BETAv1.3"))()
+end)
+
+Section:NewButton("Lunar Hub (Blade Ball)", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mzkv/LUNAR/refs/heads/main/BladeBall", true))()
+end)
+
+local Tab = Window:NewTab("Hubs")
+local Section = Tab:NewSection("Credits To owner")
+
+Section:NewButton("Ghub V15", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gclich/GHUBV15_X_ZENXOS-MAINLOADER/refs/heads/main/GHUB-X-ZENXOS-V15.txt"))()
+end)
+
+Section:NewButton("Blizzard Hub V2", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uaahjajajqoqiqkqhwhwhw/Blizzard-Hub-Official/main/Blizzard%20Hub%20V2.lua", true))()
+end)
+
+Section:NewButton("Game Hub", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Game-Hub/main/loader"))()
+end)
+
+Section:NewButton("Tiger X", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/balintTheDevX/Tiger-X-V3/main/Tiger%20X%20V3.5%20Fixed"))()
+end)
+
+Section:NewButton("Bido Skins V1.8", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BidoSkinsYT/BidoSkinsYT/main/Bido%20Skins%20V1.8"))()
+end)
+
+Section:NewButton("Draught Hub V5", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SabrXH/Draught-Hub-V5/refs/heads/main/Script.lua"))()
+end)
+
+Section:NewButton("OrangeX hub", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImJosh66/Ab2rW/main/ORANGEX%20V5%20RELEASED%20ORANGEX%20ON%20TOP%20.txt"))()
+end)
+
+Section:NewButton("GigaChad Hub V7", "", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LolPrivate/Side/main/Gigachad%20Hub%20V7.lua", true))()
+end)
+
+Section:NewButton("Ghost Hub", "", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub'))()
+end)
+
+Section:NewButton("Nullware Hub V3", "", function()
+getgenv().Theme = "Blue" -- To change the UI Theme, set this to one of the following options: "Red", "Purple", "Blue", "Green", "Yellow"
+loadstring(game:HttpGet("https://gist.githubusercontent.com/M6HqVBcddw2qaN4s/2d722888a388017c18028cd434c43a25/raw/dcccf1027fe4b90780e47767aaf584389c9d7771/EULma3fU90PUOKUn?identifier=".. (function()local a=""for b=1,256 do local c=math.random(1,3)a=a..string.char(c==1 and math.random(48,57)or c==2 and math.random(97,122)or c==3 and math.random(65,90))end;return a end)()))()
+end)
+
+Section:NewButton("Haxker_6666666 hub", "", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/FreeRobloxScripts1/Haxker_6666666-Hub/main/loader'))()
+end)
+
+local Tab = Window:NewTab("Credits")
+local Section = Tab:NewSection("Credits to all To Slicer")
+local Section = Tab:NewSection("V7 Coming Soon")
+local Section = Tab:NewSection("Fe animations")
+
+Section:NewButton("Fe Animation Man", "Works only R6 games", function()
+loadstring(game:HttpGet("https://pastefy.app/ZWgckZdU/raw"))()
+end)
+
+Section:NewButton("Fe R6 Animations", "Works only R6 games", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ocfi/Animations-obfus/refs/heads/main/obfus"))()
+end)
+
+
+local Section = Tab:NewSection("R15 Animation")
+
+Section:NewButton("Fe Adidas Walk Animation", "Works all R15 games", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/VFBVQ6zb"))()
+end)
+
+Section:NewButton("Fe Animation Walk (Chill)", "Works all R15 games", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/T7kdfUmG"))();
+end)
+
+Section:NewButton("Fe Get Sturdy", "It works only Baseplate game", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/xAHFn1hh"))();
+end)
+
+Section:NewButton("Fe Superman", "Works all R15 games", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/script"))()
+end)
+
+Section:NewButton("Fe Emotes", "Works only R15 games", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/eCpipCTH"))()
+end)
+
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "ScreenGui"
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ScreenGui.ResetOnSpawn = false
+
+local Toggle = Instance.new("TextButton")
+Toggle.Name = "Toggle"
+Toggle.Parent = ScreenGui
+Toggle.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Toggle.Position = UDim2.new(0, 0, 0.454706937, 0)
+Toggle.Size = UDim2.new(0, 90, 0, 38)
+Toggle.Font = Enum.Font.SourceSans
+Toggle.Text = "Toggle"
+Toggle.TextColor3 = Color3.fromRGB(248, 248, 248)
+Toggle.TextSize = 28.000
+Toggle.Draggable = true
+Toggle.MouseButton1Click:connect(function()
+    Library:ToggleUI()
+end)
+
+local Corner = Instance.new("UICorner")
+Corner.Name = "Corner"
+Corner.Parent = Toggle
